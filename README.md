@@ -1,2 +1,2 @@
 # ShoppingCart
-ShoppingCart web Page Using Java Script html css
+ShoppingCart web page using JavaScript, html, css
